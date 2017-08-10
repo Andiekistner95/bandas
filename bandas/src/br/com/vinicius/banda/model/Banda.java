@@ -1,3 +1,4 @@
+
 package br.com.vinicius.banda.model;
 
 import java.util.Date;
