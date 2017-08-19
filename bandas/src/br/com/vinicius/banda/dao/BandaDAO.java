@@ -32,7 +32,7 @@ public class BandaDAO {
 					Banda banda = new Banda(id, nome, dtCriacao, null);
 					bandas.add(banda);
 				}
-			}
+			} 
 		}
 
 		return bandas;
